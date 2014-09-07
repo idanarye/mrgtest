@@ -10,5 +10,3 @@ something something
 something else
 
 hgh
-
-yip
